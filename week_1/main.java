@@ -6,7 +6,7 @@ public class main {
 
         s1.displayInfo();
         s1.study();
-        s1.takeExsam();
+        s1.takeExsam(); 
 
     }
 }
